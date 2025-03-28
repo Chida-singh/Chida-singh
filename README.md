@@ -10,7 +10,7 @@ I'm a passionate technology explorer dedicated to transforming innovative ideas 
 - 💻 JavaScript | Python | Java | C++
 - 🌐 Web Technologies: HTML, CSS, React.js
 - 🗃 Databases: MongoDB, SQL
-- 🎨 Design: Figma
+- 🎨 Design: Figma, Canva
 
 
 ### 🌟 Highlights
